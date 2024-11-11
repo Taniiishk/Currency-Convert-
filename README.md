@@ -36,6 +36,28 @@ Welcome to the **Currency Converter**! This tool makes it easy to convert curren
    ```bash
    pip install tkinter currency_converter
 
+## 🚀 Usage
+
+- ### Run the Application:
+
+  ```bash
+      python converter.py
+
+## How to Use:
+
+1. Select the currency you want to convert from using the "Currency From" drop-down.
+2. Select the currency you want to convert to using the "Currency To" drop-down.
+3. Enter the amount you want to convert.
+4. Click the "Convert" button to see the converted amount.
+
+## 🛠️ Code Overview
+
+### Main Components
+
+- **Main Window**: Sets up the main application window with a title and dimensions.
+- **Currency Converter Function**: Uses the `CurrencyConverter` library to convert the amount from one currency to another.
+- **User Interface**: Built using `tkinter`, includes labels, entry fields, and buttons for user interaction.
+
 
 
 
