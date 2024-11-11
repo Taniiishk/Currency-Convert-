@@ -9,9 +9,9 @@ Welcome to the **Currency Converter**! This tool makes it easy to convert curren
 - **Error Handling**: Automatically handles errors and invalid inputs gracefully.
 - **Extensive Currency Options**: Supports a wide range of currencies including USD, EUR, GBP, INR, JPY, AUD, CAD, CHF, CNY, NZD, and SGD.
 
-## 📦 Installation
+# 📦 Installation
 
-# Manual Installation
+## Manual Installation
 
 - **Download the Project Files:** Download the project files from the repository.
 
@@ -21,9 +21,20 @@ Welcome to the **Currency Converter**! This tool makes it easy to convert curren
 
 - **Install Required Libraries**: Open a terminal or command prompt and navigate to the project directory.
 
-**Run the following command to install the required libraries:**
+- **Run the following command to install the required libraries**:
+  ```bash
+   pip install tkinter currency_converter   
+
+## Using GitHub
+
+1. **Clone the Repository**:
    ```bash
-      pip install tkinter currency_converter
+   git clone https://github.com/yourusername/currency-converter.git
+   cd currency-converter
+
+2. **Install Dependencies**:Make sure you have Python installed. Then, install the required libraries:
+   ```bash
+   pip install tkinter currency_converter
 
 
 
