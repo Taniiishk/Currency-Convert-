@@ -68,9 +68,9 @@ Welcome to the **Currency Converter**! This tool makes it easy to convert curren
 
 We welcome contributions! Feel free to fork the repository and submit pull requests. Let's make this tool even better together!
 
-## 📄 License
+## 📄This project is open-source and free to use.
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+
 
 ---
 
