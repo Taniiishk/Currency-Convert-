@@ -18,9 +18,30 @@ Welcome to the **Currency Converter**! This tool makes it easy to convert curren
    git clone https://github.com/yourusername/currency-converter.git
    cd currency-converter
 
-  2. **Install Dependencies**:Make sure you have Python installed. Then, install the required libraries:
+2. **Install Dependencies**:Make sure you have Python installed. Then, install the required libraries:
    ```bash
    pip install tkinter currency_converter
+
+# Manual Installation
+
+## Download the Project Files:
+Download the project files from the repository.
+
+## Extract the Files:
+Extract the downloaded zip file to your desired location.
+
+## Install Python:
+Ensure you have Python installed. You can download it from [python.org](https://www.python.org).
+
+## Install Required Libraries:
+Open a terminal or command prompt and navigate to the project directory.
+
+Run the following command to install the required libraries:
+```bash
+pip install tkinter currency_converter
+
+
+
 
 
 
